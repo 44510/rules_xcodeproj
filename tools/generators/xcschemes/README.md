@@ -1,6 +1,6 @@
 # `XCScheme`s generator
 
-The `xschemes` generator generates `.xcscheme` files for a project.
+The `xcschemes` generator generates `.xcscheme` files for a project.
 
 ## Inputs
 
